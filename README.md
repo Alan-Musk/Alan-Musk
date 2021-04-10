@@ -1,16 +1,17 @@
-### Hi there 👋
+### Alan
 
-<!--
-**Alan-Musk/Alan-Musk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+梦想永在凌云意，意气风发。
 
-Here are some ideas to get you started:
+代码筑就万世基，积沙镇海
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👁 目标全栈程序员 做自己觉得酷的事情
+- 💖 getBetter:学习路程路线
+- 📮 Email:alanmusk@163.com(优先看邮箱)
+- 💬 WeChat:fan791667283
+- 😼 B站:Eyes_Singularity
+- 📚 中国大学MOOC网:AlanMK
+- 🤔 有问题欢迎发邮件
+
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-musk&locale=cn&layout=compact&hide_border=true&card_width=500px" style="position: absolute;top-" />
+
