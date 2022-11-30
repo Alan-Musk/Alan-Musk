@@ -5,7 +5,7 @@
 代码筑就万世基，积沙镇海
 
 - 👁 目标全栈程序员 做自己觉得酷的事情
-- 💖 getBetter:<a href="https://github.com/Alan-Musk/University_Life">学习路程路线</a>
+- 💖 University_Life:<a href="https://github.com/Alan-Musk/University_Life">学习路程路线</a>
 - 📮 Email:alanmusk@163.com(优先看邮箱)
 - 💬 WeChat:fan791667283
 - 😼 B站:<a href="https://space.bilibili.com/413658698">Eyes_Singularity</a>
