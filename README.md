@@ -12,6 +12,3 @@
 - 📚 中国大学MOOC网:<a href="http://www.icourse163.org/home.htm?userId=1449141793">AlanMK</a>
 - 🤔 有问题欢迎发邮件
 
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<img align="center" src="https://github.com/Alan-Musk/University_Life&locale=cn&layout=compact&hide_border=true&card_width=500px" style="position: absolute;top-" />
-
